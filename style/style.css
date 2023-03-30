@@ -36,7 +36,7 @@ main img {
     width: 292px;
     height: 292px;
     border-radius: 15px;
-    margin-top: 17px;
+    margin: 17px 17px 0px 17px;
 }
 
 main div {
